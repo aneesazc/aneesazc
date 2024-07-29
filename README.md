@@ -9,7 +9,7 @@ I have been coding for several years now and I love all things fullsatck develop
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://aneesdev-portfolio.vercel.app)
 * ✉️  You can contact me at [anees.azc@gmail.com](mailto:anees.azc@gmail.com)
-* 🚀  I'm currently working at [Sanity](https://github.com/aneesazc/sanity)
+* 🚀  I'm currently working at [Sanity Esports](https://github.com/aneesazc/sanity)
 * 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on any fullstack projects
 * ⚡  I'm also addicted to cinema among other things
